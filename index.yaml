@@ -3,11 +3,11 @@ entries:
   metal-control-plane:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-02-10T10:16:59.392922801Z"
+    created: "2021-02-10T10:23:43.121997917Z"
     description: A Helm chart for deploying the metal control plane in K8s
-    digest: c9a11b46a0fcf63ebfc10cd126179eb1a895ceeafe6566d52549504d1750a192
+    digest: f9ad1fa346b680a11fbfb4e95f40f393d9aa920633e35eb431615102fe131fe6
     name: metal-control-plane
     urls:
     - https://Gerrit91.github.io/helm-charts-testing/metal-control-plane-0.2.0.tgz
     version: 0.2.0
-generated: "2021-02-10T10:16:59.391950695Z"
+generated: "2021-02-10T10:23:43.120992999Z"
